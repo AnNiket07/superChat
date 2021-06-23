@@ -1,5 +1,6 @@
 {
   "name": "superchat",
+  "homepage": "https://github.com/AnNiket07/superChat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
